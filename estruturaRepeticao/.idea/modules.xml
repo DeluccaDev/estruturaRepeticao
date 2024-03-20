@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/calculeMostre/calculeMostre.iml" filepath="$PROJECT_DIR$/calculeMostre/calculeMostre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contagemPeloUser/contagemPeloUser.iml" filepath="$PROJECT_DIR$/contagemPeloUser/contagemPeloUser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contagemSaltando/contagemSaltando.iml" filepath="$PROJECT_DIR$/contagemSaltando/contagemSaltando.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estruturaRepeticao.iml" filepath="$PROJECT_DIR$/estruturaRepeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio02/exercicio02.iml" filepath="$PROJECT_DIR$/exercicio02/exercicio02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fatorial/fatorial.iml" filepath="$PROJECT_DIR$/fatorial/fatorial.iml" />
+    </modules>
+  </component>
+</project>
